@@ -3,26 +3,25 @@
 I'm a software developer with a focus on building clean, efficient web applications. Over the past few years, I’ve worked on full-stack projects using modern tools and frameworks. Whether it's a REST API, a slick frontend, or setting up CI/CD pipelines, I enjoy solving problems and delivering solid, reliable solutions.
 
 🔧 Tech I Work With
-Languages: JavaScript, TypeScript, Python, Java
+-  Languages: JavaScript, TypeScript, Python, Java
 
-Frontend: React, Next.js, HTML, CSS, Tailwind CSS
+-  Frontend: React, Next.js, HTML, CSS, Tailwind CSS
 
-Backend: Node.js, Express, Django, Flask
+-  Backend: Node.js, Express, Django, Flask
 
-Databases: PostgreSQL, MongoDB, MySQL
+-  Databases: PostgreSQL, MongoDB, MySQL
 
-Dev Tools: Git, Docker, GitHub Actions, Linux
+-  Dev Tools: Git, Docker, GitHub Actions, Linux
 
-Cloud & Hosting: AWS (EC2, S3), Vercel, Netlify
+-  Cloud & Hosting: AWS (EC2, S3), Vercel, Netlify
 
 🚀 Projects
 Here are a few things I’ve worked on:
 
-DevTracker – A simple tool to track daily development tasks and goals. Built with React, Node.js, and MongoDB.
+-  DevTracker – A simple tool to track daily development tasks and goals. Built with React, Node.js, and MongoDB.
 
-Foodie API – RESTful API for a food delivery platform. Handles authentication, order management, and payments.
+-  Foodie API – RESTful API for a food delivery platform. Handles authentication, order management, and payments.
 
-More projects in my pinned repos.
 
 🌱 Currently
 -  Diving deeper into cloud architecture and DevOps practices
