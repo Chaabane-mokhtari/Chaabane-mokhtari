@@ -1,4 +1,5 @@
 👋 Hey, I'm Chaabane
+
 I'm a software developer with a focus on building clean, efficient web applications. Over the past few years, I’ve worked on full-stack projects using modern tools and frameworks. Whether it's a REST API, a slick frontend, or setting up CI/CD pipelines, I enjoy solving problems and delivering solid, reliable solutions.
 
 🔧 Tech I Work With
